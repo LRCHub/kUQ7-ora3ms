@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Feel like shit today",
+  "base_artist": "Age Factory",
+  "createdAt": "2026-03-05T14:05:23.002291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel like shit today",
+      "artist": "Age Factory",
+      "has_synced": true,
+      "path": "select/01_Feel_like_shit_today_Age_Factory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Feel Like Shit Today",
+      "artist": "Princess Superstar",
+      "has_synced": false,
+      "path": "select/02_I_Feel_Like_Shit_Today_Princess_Superstar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel like shit today",
+      "artist": "Age Factory",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_like_shit_today_Age_Factory.txt"
+    }
+  ]
+}
